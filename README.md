@@ -61,7 +61,7 @@ and execute with ```(./so_long or ./so_long_bonus)```with the map path.
 
 This project is conform with Norminette 4 📌
 Its repository is available at . ![Norminette](https://github.com/42School/norminette) <br>
-👋🏼 If you encounter any problems when launching the game or if you have any questions, don't hesitate to send me an e-mail : zouddach@student.1337.ma
+👋🏼 If you encounter any problems when launching the game or if you have any questions, don't hesitate to send me an e-mail : zouhairouddach@web.de
 <h3 align="center">
 '02-06-2024 21.37'
 </h3>
