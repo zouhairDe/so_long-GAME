@@ -1,5 +1,5 @@
 # so_long 
-## Compatible LINUX & MacOS 119% ✅
+## Compatible LINUX & MacOS 125% ✅
 <h3 align="center">
 Please be aware that YOU need the MLX Library for this project which you can find here: <br>
   
