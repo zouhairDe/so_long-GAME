@@ -33,6 +33,7 @@ Sneak Peek for losing...
 [EXIT] = ESC || Q
 
 [LONG PRESS SUPPRTTED ✔️]
+
 [WINDOW CLEANING EACH SIMULATION ✔️]
 
 ## How to build a map 🗺 :
