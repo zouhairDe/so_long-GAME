@@ -3,7 +3,6 @@
 <h3 align="center">
 Please be aware that YOU need the MLX Library for this project which you can find here: <br>
   
-![MLX42DOCS](https://harm-smits.github.io/42docs/libs/minilibx)
 <h4 align="center">
   if you are not 42 student and not using school iMac you will have to download it and adjust the path to the correct one in the header file
   <br>
@@ -13,7 +12,7 @@ Please be aware that YOU need the MLX Library for this project which you can fin
 Sneak Peek for losing...
 </h3>
 
-![GIF](https://github.com/zouhairDe/so_long/assets/121346419/8ac9eac8-b269-4fed-8c95-24d7dc135140)
+![GIF](https://github.com/zouhairDe/so_long-GAME/assets/121346419/331fbbc0-35a1-4e94-ac75-18648e708d2d)
 
 ## Bonus Part include :
 
@@ -32,6 +31,9 @@ Sneak Peek for losing...
 [BACKWARD] = S || DOWN-Arrow
 
 [EXIT] = ESC || Q
+
+[LONG PRESS SUPPRTTED ✔️]
+[WINDOW CLEANING EACH SIMULATION ✔️]
 
 ## How to build a map 🗺 :
 
